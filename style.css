@@ -1,0 +1,10 @@
+*{
+    margin: auto;
+}
+.heading{
+    background-color: red;
+    text-align: center;
+}
+div>p{
+    color: red;
+}
